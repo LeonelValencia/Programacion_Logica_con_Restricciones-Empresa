@@ -39,6 +39,8 @@ actividades y el personal designado para atenderlas, bajo las siguientes restric
 
 Generar dos tipos de tablas (una en general y una para el personal) como la que se muestra a continuación, el programa genenal se describan las actividades y el personal designado para atenderlas para cada dia
 
+Enlace del sheet: https://docs.google.com/spreadsheets/d/1qEPPaUIhzQ6TuqZKhueFicCug4dUX99wkZLqn0kxK_o/edit?usp=sharing
+
                                    Programa general semanal                                         
 |    Horario    |  Actividad  |   Lunes   |  Martes  | Miércoles |  Jueves  | Viernes   | Sábado     |
 | ------------- | ----------- | --------- | -------- | --------- | -------- | --------- | ---------- |
